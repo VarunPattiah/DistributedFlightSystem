@@ -1,0 +1,24 @@
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-2
+	First Name:	CC
+	Last Name:	CC
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Mon Dec 05 15:00:00 EST 2016
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-3
+	First Name:	DD
+	Last Name:	DD
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Mon Dec 05 15:00:00 EST 2016
