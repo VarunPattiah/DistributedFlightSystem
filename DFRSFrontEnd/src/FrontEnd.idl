@@ -1,0 +1,33 @@
+module FrontEnd{
+			struct FlightVO {
+				long flightID;
+				string Departure;
+				string Destination;
+				string flightDate;
+				long economySeats;
+				long businessSeats;
+				long firstClassSeats;
+				string editedBy;
+				boolean isAvailable;
+				string message;
+				boolean isFlightModified;
+			};
+			
+			struct PassengerVO {
+			   string recordID;
+			   string firstName;
+		       string lastName;
+			   string address;
+			   string phoneNumber;
+			   string destination;
+			   string classOfFlight;
+			   string dateOfFilight;
+		       string message;
+			   boolean isFlightBooked;
+			};
+	interface FrontEndInterface{
+		string executeOperation(in string method, in string managerId, in string firstName, in string lastName, 
+		 in string phoneNumber, in string destination, in string address, in string dateofBooking, in string classType, in string recordType, 
+		 in string recordId, in string fieldName, in string passengerID, in string currentCity, in string otherCity, in string newValue, in string remoteServerName);
+	};
+};
