@@ -1,0 +1,1276 @@
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington0
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: New Flight is created
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	6
+	Departure:	null
+	Destination:	null
+	flightDate:	Sun Oct 30 22:58:20 EDT 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	None
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington1
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: New Flight is created
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	7
+	Departure:	null
+	Destination:	null
+	flightDate:	Sun Oct 30 22:58:20 EDT 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	None
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington2
+	First Name:	DD
+	Last Name:	DD
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: New Flight is created
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	8
+	Departure:	null
+	Destination:	null
+	flightDate:	Sun Oct 30 22:58:20 EDT 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	None
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington3
+	First Name:	EE
+	Last Name:	EE
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: New Flight is created
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	9
+	Departure:	null
+	Destination:	null
+	flightDate:	Sun Oct 30 22:58:20 EDT 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	None
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington4
+	First Name:	FF
+	Last Name:	FF
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: New Flight is created
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	10
+	Departure:	null
+	Destination:	null
+	flightDate:	Sun Oct 30 22:58:20 EDT 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	None
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington5
+	First Name:	GG
+	Last Name:	GG
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: New Flight is created
+Oct 30, 2016 10:58:20 PM idl.server.DFRSServer editFlightRecord
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	11
+	Departure:	null
+	Destination:	null
+	flightDate:	Sun Oct 30 22:58:20 EDT 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	None
+
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington0
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington1
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington2
+	First Name:	DD
+	Last Name:	DD
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington3
+	First Name:	EE
+	Last Name:	EE
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington4
+	First Name:	FF
+	Last Name:	FF
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:51:06 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington5
+	First Name:	GG
+	Last Name:	GG
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington0
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington1
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington2
+	First Name:	DD
+	Last Name:	DD
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington3
+	First Name:	EE
+	Last Name:	EE
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington4
+	First Name:	FF
+	Last Name:	FF
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 8:57:29 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington5
+	First Name:	GG
+	Last Name:	GG
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington0
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington1
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington2
+	First Name:	DD
+	Last Name:	DD
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington3
+	First Name:	EE
+	Last Name:	EE
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington4
+	First Name:	FF
+	Last Name:	FF
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:01:14 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington5
+	First Name:	GG
+	Last Name:	GG
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEW DELHI
+	ClassOfFlight:	FIRST
+	DateOfFlight:	Wed Dec 31 18:59:57 EST 1969
+
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Flight is not available
+Nov 02, 2016 9:02:08 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-Washington6
+	First Name:	ZXCDS
+	Last Name:	SDF
+	Address:	SDF
+	Phone Number:	343
+	Destination:	MONTREAL
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Fri Nov 04 18:00:00 EDT 2016
+
+Nov 02, 2016 11:07:54 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: AA and LAST NAME: AA
+Nov 02, 2016 11:07:54 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: BB and LAST NAME: BB
+Nov 02, 2016 11:07:54 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: DD and LAST NAME: DD
+Nov 02, 2016 11:07:54 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: EE and LAST NAME: EE
+Nov 02, 2016 11:07:54 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: FF and LAST NAME: FF
+Nov 02, 2016 11:07:54 AM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: GG and LAST NAME: GG
+Nov 02, 2016 4:23:52 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: AA and LAST NAME: AA
+Nov 02, 2016 4:23:52 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: BB and LAST NAME: BB
+Nov 02, 2016 4:23:52 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: DD and LAST NAME: DD
+Nov 02, 2016 4:23:52 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: EE and LAST NAME: EE
+Nov 02, 2016 4:23:52 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: FF and LAST NAME: FF
+Nov 02, 2016 4:23:52 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: GG and LAST NAME: GG
+Nov 05, 2016 11:45:06 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: AA and LAST NAME: AA
+Nov 05, 2016 11:45:06 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: BB and LAST NAME: BB
+Nov 05, 2016 11:45:06 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: DD and LAST NAME: DD
+Nov 05, 2016 11:45:06 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: EE and LAST NAME: EE
+Nov 05, 2016 11:45:06 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: FF and LAST NAME: FF
+Nov 05, 2016 11:45:06 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Exists with same username(First Name and Last Name)with FIRST NAME: GG and LAST NAME: GG
+Nov 05, 2016 11:47:00 PM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-Montreal6
+Nov 06, 2016 12:44:30 AM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-Montreal0
+Nov 06, 2016 12:08:13 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-1
+	First Name:	HAITTAP
+	Last Name:	HAITTAP
+	Address:	DDSF
+	Phone Number:	34234
+	Destination:	MONTREAL
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Mon Nov 07 15:00:00 EST 2016
+
+Nov 06, 2016 1:46:10 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-1
+	First Name:	PATTIAH
+	Last Name:	VARUN
+	Address:	SDFSD
+	Phone Number:	324234
+	Destination:	NEWDELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Tue Nov 08 18:00:00 EST 2016
+
+Nov 06, 2016 1:48:58 PM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-0
+Nov 06, 2016 2:34:08 PM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-0
+Nov 06, 2016 2:39:55 PM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-0
+Nov 06, 2016 2:49:39 PM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-0
+Nov 06, 2016 7:53:07 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-0
+	First Name:	DSCSD
+	Last Name:	SDF
+	Address:	SDE
+	Phone Number:	3223
+	Destination:	NEWDELHI
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Mon Nov 07 18:00:00 EST 2016
+
+Nov 07, 2016 4:04:51 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-4
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Tue Nov 08 15:00:00 EST 2016
+
+Nov 07, 2016 4:04:51 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-5
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Tue Nov 08 15:00:00 EST 2016
+
+Nov 07, 2016 4:36:28 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-2
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Tue Nov 08 15:00:00 EST 2016
+
+Nov 07, 2016 4:36:28 PM idl.server.DFRSServer bookFlight
+INFO: Passenger Flight booked Successfuly.
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-3
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Tue Nov 08 15:00:00 EST 2016
+
+Nov 07, 2016 4:37:21 PM idl.server.DFRSServer receivePassengerReservation
+INFO: 		receivePassengerReservation() Passenger STATUS:	CREATED	PASSENGER ID:	Record-0
+Nov 07, 2016 4:37:21 PM idl.server.DFRSServer deleteReservation
+INFO: 	deletefromCurrentServer() PASSENGER DELETE STATUS:	CREATED

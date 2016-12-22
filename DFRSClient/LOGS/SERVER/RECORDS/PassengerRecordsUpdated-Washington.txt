@@ -1,0 +1,24 @@
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-2
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Tue Nov 08 15:00:00 EST 2016
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-3
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 washington
+	Phone Number:	5144498754
+	Destination:	NEWDELHI
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Tue Nov 08 15:00:00 EST 2016
