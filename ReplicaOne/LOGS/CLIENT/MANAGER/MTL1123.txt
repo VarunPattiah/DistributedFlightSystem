@@ -1,0 +1,86 @@
+Nov 06, 2016 7:53:34 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:53:37 PM idl.client.ManagerClient getBookedFlightCount
+INFO:  Booked Flight Count : {NewDelhi=0, Montreal=0, Washington=0}
+Nov 06, 2016 7:53:37 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:53:41 PM idl.client.ManagerClient getBookedFlightCount
+INFO:  Booked Flight Count : {NewDelhi=0, Montreal=0, Washington=1}
+Nov 06, 2016 7:53:41 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:53:45 PM idl.client.ManagerClient getBookedFlightCount
+INFO:  Booked Flight Count : {NewDelhi=0, Montreal=0, Washington=0}
+Nov 06, 2016 7:53:45 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:55:29 PM idl.client.ManagerClient editFlightBookRecords
+INFO: Your changes got updated successfully
+Nov 06, 2016 7:55:29 PM idl.client.ManagerClient editFlightBookRecords
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	18
+	Departure:	Montreal
+	Destination:	NewDelhi
+	flightDate:	Wed Nov 09 00:00:00 EST 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	MTL1123
+
+Nov 06, 2016 7:55:29 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:56:28 PM idl.client.ManagerClient editFlightBookRecords
+INFO: Your changes got updated successfully
+Nov 06, 2016 7:56:28 PM idl.client.ManagerClient editFlightBookRecords
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	18
+	Departure:	sad
+	Destination:	NewDelhi
+	flightDate:	Wed Nov 09 00:00:00 EST 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	MTL1123
+
+Nov 06, 2016 7:56:28 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:57:42 PM idl.client.ManagerClient editFlightBookRecords
+INFO: Your changes got updated successfully
+Nov 06, 2016 7:57:42 PM idl.client.ManagerClient editFlightBookRecords
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	18
+	Departure:	sad
+	Destination:	NewDelhi
+	flightDate:	Wed Nov 09 00:00:00 EST 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	MTL1123
+
+Nov 06, 2016 7:57:42 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized
+Nov 06, 2016 7:58:18 PM idl.client.ManagerClient editFlightBookRecords
+INFO: Flight record is deleted successfully
+Nov 06, 2016 7:58:18 PM idl.client.ManagerClient editFlightBookRecords
+INFO: 
+============================================================
+FlightDetails Details:
+============================================================
+	RecordId:	18
+	Departure:	sad
+	Destination:	NewDelhi
+	flightDate:	Wed Nov 09 00:00:00 EST 2016
+	economySeats:	30
+	businessSeats:	20
+	firstClassSeats:	10
+	EditedBy:	MTL1123
+
+Nov 06, 2016 7:58:18 PM idl.client.ManagerClient Starter
+INFO: MTL1123 Manager Credentials Authorized

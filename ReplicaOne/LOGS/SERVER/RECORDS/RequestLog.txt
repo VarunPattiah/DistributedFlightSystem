@@ -1,0 +1,21 @@
+
+MessageID		Method		Response
+1		BF		SUCCESS: Passenger Flight booked Successfuly.RecordID : Record-0
+
+MessageID		Method		Response
+2		BF		SUCCESS: Passenger Flight booked Successfuly.RecordID : Record-1
+
+MessageID		Method		Response
+3		BF		SUCCESS: Passenger Flight booked Successfuly.RecordID : Record-2
+
+MessageID		Method		Response
+4		BF		SUCCESS: Passenger Flight booked Successfuly.RecordID : Record-3
+
+MessageID		Method		Response
+5		MA		true
+
+MessageID		Method		Response
+16		GB		[1, 2, 0]
+
+MessageID		Method		Response
+6		GB		[1, 2, 0]

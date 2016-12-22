@@ -1,0 +1,24 @@
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-0
+	First Name:	AA
+	Last Name:	AA
+	Address:	apt 16 montreal
+	Phone Number:	5144498754
+	Destination:	WASHINGTON
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Mon Dec 05 15:00:00 EST 2016
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-1
+	First Name:	BB
+	Last Name:	BB
+	Address:	apt 16 montreal
+	Phone Number:	5144498754
+	Destination:	WASHINGTON
+	ClassOfFlight:	BUISNESS
+	DateOfFlight:	Mon Dec 05 15:00:00 EST 2016

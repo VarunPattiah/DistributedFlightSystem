@@ -1,0 +1,24 @@
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-0
+	First Name:	EE
+	Last Name:	EE
+	Address:	apt 16 delhi
+	Phone Number:	5144498754
+	Destination:	MONTREAL
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Mon Dec 05 15:00:00 EST 2016
+
+============================================================
+Passenger Details:
+============================================================
+	RecordId:	Record-1
+	First Name:	FF
+	Last Name:	FF
+	Address:	apt 16 delhi
+	Phone Number:	5144498754
+	Destination:	MONTREAL
+	ClassOfFlight:	ECONOMY
+	DateOfFlight:	Mon Dec 05 15:00:00 EST 2016
